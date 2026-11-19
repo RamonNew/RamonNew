@@ -58,3 +58,21 @@ Pesquisa em IA no mestrado, com **Python** como linguagem principal.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
+## 🚀 Projetos
+
+### [📊 Painel Escolar](https://github.com/RamonNew/painel_escolar)
+Sistema que exibe em tempo real as aulas em TVs dos corredores, com painel administrativo para gerenciar aulas, ambientes, entrega de chaves e anúncios.  
+`React` `React Router` `Node.js` `Express` `MySQL` `JWT` `bcrypt` `Joi` `Winston` `importação CSV`
+
+### [🖼️ Gestão de Imagens](https://github.com/RamonNew/gestao_imagens_dds5)
+Aplicação full stack para upload, armazenamento e gerenciamento de imagens.  
+`React` `Node.js` `Express` `express-fileupload` `MySQL`
+
+### [🔌 INET-API](https://github.com/RamonNew/INET-API)
+Trilha progressiva de construção de APIs: do primeiro script Node.js ao sistema de arquivos, Express, integração com MySQL, upload e autenticação.  
+`Node.js` `Express` `MySQL` `Auth`
+
+### [🔢 Counting Sort](https://github.com/RamonNew/countingSort)
+Implementação do algoritmo de ordenação por contagem, de complexidade O(n + k).  
+`Java`
+
