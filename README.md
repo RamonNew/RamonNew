@@ -76,3 +76,16 @@ Trilha progressiva de construção de APIs: do primeiro script Node.js ao sistem
 Implementação do algoritmo de ordenação por contagem, de complexidade O(n + k).  
 `Java`
 
+## 🤝 Como eu trabalho
+
+- **Do requisito à entrega:** converso com o cliente, transformo a necessidade em modelo de dados e API e acompanho até a aplicação estar em uso
+- **Liderança técnica:** coordenei uma equipe de 10 pessoas em um ambiente de saúde com operação 24/7
+- **Comunicação técnica:** tenho anos de experiência em docência de programação, POO e desenvolvimento web, e explico sistemas complexos de forma clara para quem desenvolve e para quem usa
+- **Visão de ponta a ponta:** o mesmo problema pode estar no código, na rede ou no servidor, e eu investigo as três camadas
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RamonNew&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonNew&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+</p>
